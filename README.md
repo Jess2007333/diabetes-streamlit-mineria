@@ -4,7 +4,7 @@ Proyecto de **Minería de Datos** · Universidad de la Costa (CUC) · Tercer cor
 
 > ⚠️ \*\*Aviso:\*\* prototipo académico. \*\*No sustituye el diagnóstico ni la decisión de un profesional de la salud.\*\*
 
-**Aplicación pública:** `COMPLETAR\_URL\_STREAMLIT`
+**Aplicación pública:** `https://diabetes-app-mineria-szbknhebcvpppm2hjs27mf.streamlit.app/`
 
 ## Integrantes
 
